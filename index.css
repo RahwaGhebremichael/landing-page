@@ -87,7 +87,7 @@
 }
 
 .input_box::placeholder {
-    color: white;
+    color: rgb(248, 244, 244);
 }
 
 .submit_button:hover {
